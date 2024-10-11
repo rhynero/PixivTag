@@ -6,7 +6,7 @@ This app automatically organises images from Pixiv by identifying the franchise 
 >
 > To get refresh\*token, see [@ZipFile Pixiv OAuth Flow](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) or [OAuth with Selenium/ChromeDriver](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
 
-\*taken from pixivpy homepage\*
+_taken from pixivpy homepage_
 
 ## Current Features:
 
