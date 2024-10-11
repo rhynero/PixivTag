@@ -16,4 +16,4 @@ _taken from pixivpy homepage_
 
 ## Future Improvements:
 
-- <p>Artist Sorting: <br>In future updates, I plan to implement functionality to organize images by the artist as well, creating dedicated folders for each artist in addition to sorting by franchise.</p>
+- <p>Artist Sorting: <br>In future updates, I plan to implement functionality to organize images by the illustrator as well, creating dedicated folders for each illustrator within the franchise folder.</p>
