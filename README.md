@@ -4,8 +4,9 @@ This app automatically organises images from Pixiv by identifying the franchise 
 
 > Due to #158 reason, password login no longer exist. Please use api.auth(refresh_token=REFRESH_TOKEN) instead
 >
-> To get refresh*token, see [@ZipFile Pixiv OAuth Flow](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) or [OAuth with Selenium/ChromeDriver](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
-> \_taken from pixivpy homepage*
+> To get refresh\*token, see [@ZipFile Pixiv OAuth Flow](https://gist.github.com/ZipFile/c9ebedb224406f4f11845ab700124362) or [OAuth with Selenium/ChromeDriver](https://gist.github.com/upbit/6edda27cb1644e94183291109b8a5fde)
+
+\*taken from pixivpy homepage\*
 
 ## Current Features:
 
